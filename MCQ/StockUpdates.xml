@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Stocks>
+
+  <Stock Name ="Day Star" Price ="112" LastPrice="15" />
+  <Stock Name = "Starbucks" Price ="4450" LastPrice ="500" />
+  <Stock Name= "AMD" Price ="100" LastPrice="111.23" />
+  
+</Stocks>
+
+
+
+

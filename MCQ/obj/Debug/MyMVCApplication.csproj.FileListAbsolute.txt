@@ -1,0 +1,11 @@
+C:\Projects\LearningASPMVC\LearningASPMVCSolution\MyMVCApplication\bin\MyMVCApplication.dll
+C:\Projects\LearningASPMVC\LearningASPMVCSolution\MyMVCApplication\bin\MyMVCApplication.pdb
+C:\Projects\LearningASPMVC\LearningASPMVCSolution\MyMVCApplication\bin\BusinessObjects.dll
+C:\Projects\LearningASPMVC\LearningASPMVCSolution\MyMVCApplication\bin\Microsoft.Web.Mvc.DataAnnotations.dll
+C:\Projects\LearningASPMVC\LearningASPMVCSolution\MyMVCApplication\bin\Microsoft.Web.Mvc.dll
+C:\Projects\LearningASPMVC\LearningASPMVCSolution\MyMVCApplication\bin\StructureMap.dll
+C:\Projects\LearningASPMVC\LearningASPMVCSolution\MyMVCApplication\bin\System.ComponentModel.DataAnnotations.dll
+C:\Projects\LearningASPMVC\LearningASPMVCSolution\MyMVCApplication\bin\BusinessObjects.pdb
+C:\Projects\LearningASPMVC\LearningASPMVCSolution\MyMVCApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\LearningASPMVC\LearningASPMVCSolution\MyMVCApplication\obj\Debug\MyMVCApplication.dll
+C:\Projects\LearningASPMVC\LearningASPMVCSolution\MyMVCApplication\obj\Debug\MyMVCApplication.pdb
